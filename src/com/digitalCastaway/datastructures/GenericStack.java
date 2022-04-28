@@ -1,3 +1,5 @@
+package com.digitalCastaway.datastructures;
+
 public class GenericStack<T> {
     private static final int CAPACIDAD_INICIAL = 5;
     private static final int TOP = 0;

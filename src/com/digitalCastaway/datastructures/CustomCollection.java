@@ -1,3 +1,5 @@
+package com.digitalCastaway.datastructures;
+
 public class CustomCollection<T> {
 
     private static final int DEFAULT_CAPACITY = 5;

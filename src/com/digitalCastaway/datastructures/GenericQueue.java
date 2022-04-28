@@ -1,3 +1,5 @@
+package com.digitalCastaway.datastructures;
+
 public class GenericQueue<T> {
     private final static int CAPACIDAD_INICIAL = 5;
 
